@@ -2,7 +2,7 @@ const COMPANIES = [
   {
     name: "ADP",
     role: "Software Engineer",
-    period: "2016 - 2018",
+    period: "Aug 2018 – Dec 2020",
     color: "blue",
     description:
       "Worked on payroll and HR software solutions, focusing on backend services and API integrations.",
@@ -11,7 +11,7 @@ const COMPANIES = [
   {
     name: "PureSoftware",
     role: "Senior Developer",
-    period: "2018 - 2020",
+    period: "Jan 2021 – Jun 2023",
     color: "cyan",
     description:
       "Developed user-friendly interfaces and enhanced user experience through modern web technologies.",
@@ -20,7 +20,7 @@ const COMPANIES = [
   {
     name: "Sapiens",
     role: "Developer",
-    period: "2020 - Present",
+    period: "Jul 2023 – Dec 2025",
     color: "emerald",
     description:
       "Contributing to various projects, focusing on full-stack development and cloud solutions.",
@@ -29,7 +29,7 @@ const COMPANIES = [
   {
     name: "BestBuy",
     role: "Senior Software Engineer",
-    period: "2020 - Present",
+    period: "Dec 2025 - Present",
     color: "rose",
     description:
       "Leading a team of developers to deliver high-quality software solutions and drive innovation.",
