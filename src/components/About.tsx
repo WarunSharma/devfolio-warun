@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import React from 'react';
 
 export default function About() {
@@ -126,9 +127,11 @@ export default function About() {
           {/* Right Image */}
           <div className="relative w-full lg:w-1/2 max-w-md z-10">
             <div className="relative aspect-square rounded-lg overflow-hidden border-4 border-blue-500/20 shadow-2xl">
-              <img
+              <Image
                 src="/profile.png"
                 alt="Warun Sharma"
+                width={1000}
+                height={1000}
                 className="w-full h-full object-cover"
               />
               {/* Decorative gradient overlay */}

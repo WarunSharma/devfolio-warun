@@ -1,6 +1,6 @@
 'use client';
 
-import { FaGithub, FaLinkedin, FaFacebook, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa';
 
 export default function Hero() {
   return (
@@ -83,13 +83,13 @@ export default function Hero() {
                   <span className="text-blue-400">const</span> coder = {'{'}
                   {'\n'} &nbsp;&nbsp;
                   <span className="text-white">name:</span>{' '}
-                  <span className="text-amber-300">'Warun Sharma'</span>,
+                  <span className="text-amber-300">&apos;Warun Sharma&apos;</span>,
                   {'\n'} &nbsp;&nbsp;
                   <span className="text-white">skills:</span> [
-                  <span className="text-amber-300">'React'</span>,{' '}
-                  <span className="text-amber-300">'Next.js'</span>,{' '}
-                  <span className="text-amber-300">'Node.js'</span>,{' '}
-                  <span className="text-amber-300">'TypeScript'</span>],
+                  <span className="text-amber-300">&apos;React&apos;</span>,{' '}
+                  <span className="text-amber-300">&apos;Next.js&apos;</span>,{' '}
+                  <span className="text-amber-300">&apos;Node.js&apos;</span>,{' '}
+                  <span className="text-amber-300">&apos;TypeScript&apos;</span>],
                   {'\n'} &nbsp;&nbsp;
                   <span className="text-white">hardWorker:</span>{' '}
                   <span className="text-orange-400">true</span>, {'\n'} &nbsp;&nbsp;

@@ -75,7 +75,7 @@ export default function PastCompanies() {
             Past <span className="text-blue-500">Companies</span>
           </h2>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-            Places I've contributed to — roles, durations and focus areas.
+            Places I&apos;ve contributed to — roles, durations and focus areas.
           </p>
         </div>
 
